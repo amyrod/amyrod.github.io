@@ -1,0 +1,35 @@
+@charset "UTF-8";
+body{
+	background-image:url(../Imagenes/Fondo.png);
+	padding:0px;
+	height: auto;
+}
+h1{color: aliceblue}
+h3{color: aliceblue}
+.one{color: aliceblue}
+.primero{color: aliceblue}
+.two{color: yellow}
+.banner{
+	height:700px;
+	border:10px;
+	background-image: url( ../Imagenes/pirmide-azteca.jpg);
+	background-size: 100%;
+	background-repeat: no-repeat;
+	padding: 250px;
+	text-align: center;
+	align-content: center;
+	position:relative;
+}
+.container-fluid{
+	position:static;
+	text-align: center;
+}
+.container{
+	align-content: center;
+}
+.space{
+	padding-top: 50px;
+	padding-bottom: 50px;
+	height:100px;
+	border:10px;
+}
